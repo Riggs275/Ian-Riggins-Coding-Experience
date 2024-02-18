@@ -3,10 +3,15 @@
 ## <u>Table of Contents</u>
 
 [TOC](#Table-of-Contents)
+
 [About Me](#About-Me)
+
 [Projetcs](#Projects)
+
   [Java](#bucketSorting)
+  
   [C#](#Web-Based-Calculator)
+  
 
 ## <u>About Me</u>
 

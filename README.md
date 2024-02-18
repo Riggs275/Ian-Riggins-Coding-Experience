@@ -28,9 +28,9 @@ In this GitHub repository you'll be able to find some various programs I have wr
 
   - *searchStack* - A search function that takes in a stack of integers and a target values and returns true or false depending on if the value is found or not without changing the content of the stack.
   
-- **Web-Based Calculator** - A semester long project where I created a web-based calculator along with unit tests and end-to-end tests for the program. The files for the project can be found here
+- **Web-Based Calculator** - A semester long project where I created a web-based calculator along with unit tests and end-to-end tests for the program. The files for the project can be found here.
 
-  [here]: https://github.com/Riggs275/Ian-Riggins-SWE-3643-Project
+  [here.]: https://github.com/Riggs275/Ian-Riggins-SWE-3643-Project
 
   
 

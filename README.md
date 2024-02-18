@@ -35,7 +35,7 @@ In this GitHub repository you'll be able to find some various programs I have wr
 - **Web-Based Calculator** - A semester long project where I created a web-based calculator along with unit tests and end-to-end tests for the program. The repository for the project can be found [here](https://github.com/Riggs275/Ian-Riggins-SWE-3643-Project).
 
   
-##Disclaimer
+## Disclaimer
 
 Small side note that at the time of creating this repository this is my first time working with markdown so this repository might have many commit changes that change next to nothing.
   

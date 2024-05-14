@@ -22,14 +22,14 @@ Located in the [Projects folder](https://github.com/Riggs275/Ian-Riggins-Coding-
 
 ### C# 
 
-- **Bank Account Manager** - A collection of C# programs demonstrating my C# skills in regards to Polymorphism/Inheritance, the List data structure, and Exception Handling.
-- **TimedSelectionSort** - A simple program that creates and sorts an array that sorts through 1000 arrays of random integers and calculates the average time in milliseconds.
-- **Web-Based Calculator (in progress)** - A semester long project where I create a web-based calculator along with unit tests and end-to-end tests for the program. The repository for the project can be found [here](https://github.com/Riggs275/Ian-Riggins-SWE-3643-Project).
+- **Bank Account Manager** - A console application where users could create Bank Accounts and perform certain operations on them. This project uses Polymorphism/Inheritance, the List data structure, and Exception Handling.
+- **TimedSelectionSort** - A console applicaiton that creates and sorts an array that sorts through 1000 arrays of random integers and calculates the average time in milliseconds.
+- **Web-Based Calculator** - A semester long project where I created web server that performs basic calculator functions and to have functional Unit tests and End-to-End tests that correspond to what was created. The repository for the project can be found [here](https://github.com/Riggs275/Ian-Riggins-SWE-3643-Project).
 
 ### Java 
-- **bucketSorting**: This is a Java application that allows the user to input integers into an array, sort the array using the bucket/radix sort algorithm, and get the integer array in its unsorted and sorted state.
+- **bucketSorting**: A console application that allows the user to input integers into an array, sort the array using the bucket/radix sort algorithm, and get the integer array in its unsorted and sorted state.
 
-- **testStack**: A Java application that implements functions to manipulate stack data structures. These functions include: 
+- **testStack**: A console application that implements functions to manipulate stack data structures. These functions include: 
 
   - *topToBottom* - A function that takes in a stack of integers as a parameter and displays the stack contents from the top of the stack to the bottom of the stack (the top value is printed first and the bottom is printed last) without change the content of the stack.
 
